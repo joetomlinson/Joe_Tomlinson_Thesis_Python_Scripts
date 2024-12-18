@@ -1,4 +1,4 @@
-#Python Script to take Human RefSeq Accessions and gather all 3' UTRs then find all AUG dORFs in these sequences
+#Python Script to take Human RefSeq Accessions and gather all 3' UTR sequences from NCBI nucleotide database then split into dataframes with and without AUG dORFs in these sequences, also include details about dORFs in dataframe
 
 import pandas as pd #Import pandas
 import re #import regular expressions package
