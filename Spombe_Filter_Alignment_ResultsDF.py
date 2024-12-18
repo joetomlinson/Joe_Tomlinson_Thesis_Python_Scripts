@@ -4,7 +4,7 @@ Created on Wed Mar  6 11:30:10 2024
 
 @author: jtoml
 """
-
+#Python script to filter dORF and 3' UTR water alignment results dataframe based on alignment length (alignment is as long as shortest dORF or 3' UTR being aligned) and remove duplicate human dORF IDs
 #imported required modules
 import pandas as pd
 import warnings
