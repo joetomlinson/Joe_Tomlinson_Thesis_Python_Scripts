@@ -1,3 +1,4 @@
+#Python Script to analyse similarity of control sequences in human and homolog species of the dORF lengths finishing 200 bases upstream of the dORF start codon and add results to conservation analysis results
 #imported required modules
 import pandas as pd
 import os
