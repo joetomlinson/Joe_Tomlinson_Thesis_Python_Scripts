@@ -1,3 +1,4 @@
+#Python Script to updated AUG dORF conservation results by running the same analysis of AUG dORF similarity with the AUG start codons removed from the alignment
 #imported required modules
 import pandas as pd
 import os
