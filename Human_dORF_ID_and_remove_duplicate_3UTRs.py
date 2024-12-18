@@ -1,4 +1,4 @@
-#Script to add dORF ID and remove duplicate 3UTRs from human dORF containing 3UTR dataframe
+#Script to add unique dORF ID and remove duplicate 3UTRs from human AUG dORF containing 3UTR dataframe
 #imported required modules
 import pandas as pd
 import warnings
