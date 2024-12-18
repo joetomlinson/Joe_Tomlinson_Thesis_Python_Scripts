@@ -1,3 +1,4 @@
+#Python Script to analyse conservation of human dORF control sequences, which are same as dORF length taken from middle of the 3' UTR, anywhere in the homolog species 3' UTR add results to conservation analysis results
 #imported required modules
 import pandas as pd
 import os
