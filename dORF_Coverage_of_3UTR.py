@@ -3,7 +3,7 @@
 Created on Mon Jan 16 16:01:44 2023
 @author: jtoml
 """
-
+# Python Script used with excel spreadsheet with transcript, ORF start and ORF stop from getORF output to calculate the total dORF coverage of each transcript 3' UTR
 # Import pandas
 import pandas as pd
   
